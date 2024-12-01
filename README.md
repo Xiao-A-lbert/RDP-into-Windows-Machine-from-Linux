@@ -24,8 +24,9 @@ First, the target Windows machine has to have RDP turned on. I did this through 
 <br />
 Setup Windows VM name, ISO image source, and check-box for Skip Unattended Installation. 
 
-![2) setting up windows 11 vm in virtual box](https://github.com/user-attachments/assets/180d8114-d44a-4de2-82ff-186bdeb935bd)
-
+![2) install remmina on linux machine](https://github.com/user-attachments/assets/37404947-7041-46c7-84ea-20086df3f8d0)
+![3) launch remmina and enter target desktop nameip](https://github.com/user-attachments/assets/d0114ad3-3501-480d-be33-537b9ed6c281)
+![Screenshot_2024-11-30_18-17-57](https://github.com/user-attachments/assets/4d1453e2-3d84-4679-8669-bb702e769a4f)
 <br />
 <br />
 Set hardware settings to allow 8g of RAM and 4 CPU cores allocated to this Windows VM. 
